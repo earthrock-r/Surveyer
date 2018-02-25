@@ -1,0 +1,47 @@
+body {
+  background-color: cyan;
+  text-align: center;
+}
+#header {
+  background-color: cyan;
+  color: white;
+  font-family: monospace;
+  height: 80pt;
+  font-size: 64pt;
+  display: block;
+}
+#header a {
+  color: white;
+  text-decoration: none;
+}
+.header-list li {
+  display: inline;
+}
+#content {
+  display: block;
+  background-color: cyan;
+  font-family: monospace;
+  color: black;
+  height: auto;
+}
+#content a {
+  color: black;
+  text-decoration: none;
+}
+.blog-post {
+  background-color: lightgray;
+  margin: 2pt;
+}
+#footer {
+  display: block;
+  background-color: cyan;
+  color: white;
+  font-family: monospace;
+}
+#footer a {
+  color: white;
+  text-decoration: none;
+}
+.nav-column li {
+  display: inline;
+}
